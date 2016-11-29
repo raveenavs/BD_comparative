@@ -1,0 +1,11 @@
+1
+>export_comercial_invoice_create_business.rb
+8
+-referencia
+-export_dde_process_id
+-data
+-local_coleta_address_id
+-local_destino_final_address_id
+-forma_pagamento
+-currency_id
+-data_entreg

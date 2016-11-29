@@ -1,0 +1,36 @@
+===== Relatorio n118 =====
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>data_entreg
+
+END_OF_SEARCH
+
+
+>> WARNING: comparacao as avessas! Coisas 'novas' relatadas a seguir foram excluidas do Model original!
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>id
+
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>modal_transporte
+
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>local_embarque
+
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>local_destino
+
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>data_entrega
+
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>emitter_client_id
+
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>export_dse_process_id
+
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>export_packing_list_id
+
+* Novo Campo em export_comercial_invoice_create_business.rb!
+>receiver_importer_stakeholder_id
+
+END_OF_SEARCH
